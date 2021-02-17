@@ -92,7 +92,7 @@ int main()
     case '?':
     cout<<"Twoim celem jest przemieszczenie paczki (X) na miejsce mety (O)."<<endl;
     cout<<"W tym celu powinienes poruszac sie robotnikiem(R) i przesunac ja na miejsce mety."<<endl;
-    cout<<"W tym celu powinieneœ uzyc klawiszy 'w' 's' 'a' i 'd'";
+    cout<<"W tym celu powinienes uzyc klawiszy 'w' 's' 'a' i 'd'";
     break;
     case 'q':
     return 0;
